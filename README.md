@@ -1,4 +1,4 @@
-### Óla, me chamo Raphael, sou desenvolvedor Web, Busco estar sempre adiquirindo conhecimentos e experiências com minha carreira de programador.
+### Óla, me chamo Raphael, sou desenvolvedor Web e análista de dados, Busco estar sempre adquirindo conhecimentos e experiências com meus estudos e carreira profissional.
 
 #### Informações Úteis:
 
