@@ -41,7 +41,7 @@
 ###
 
 <div>
-  <img style="100%,color:#fff" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=false&text=Raphael%20Mendes&fontSize=40&fontColor=#fff&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=#1e3587"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=false&text=Raphael%20Mendes&fontSize=40&fontColor=#fff&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=#1e3587"  />
 </div>
 
 ###
