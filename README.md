@@ -2,5 +2,5 @@
 
 
 #### Informações Úteis:
-
+<img src="https://raw.githubusercontent.com/RaphaelM10/RaphaelM10/output/snake.svg" alt="Snake animation" />
 ##### Link do Meu Portifólio: https://raphaelm10.github.io/Portifolio/
